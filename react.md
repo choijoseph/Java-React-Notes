@@ -1,5 +1,5 @@
 # Introduction to React
 
-## <a src="https://reactjs.org/docs/hello-world.html">Link to Conceptual Guide</a>
+## [Link to Conceptual Guide]("https://reactjs.org/docs/hello-world.html")
 
-## <a src="https://reactjs.org/tutorial/tutorial.html">Link to Hands-On React Tutorial</a>
+## [Link to Hands-On React Tutorial]("https://reactjs.org/tutorial/tutorial.html")
